@@ -162,7 +162,7 @@ export default function Hero({ start }: { start: boolean }) {
       >
         <video
           ref={videoRef}
-          src={hero.video || '/media/Man_walking_forward_20261015113514_gwr_video_mvp.mp4'}
+          src={hero.video || '/media/Man_walking_forward_20261015113514_gwr_video_mvp_20261016115323_gwr_video_mvp_1080p_20261016122830_gwr_video_mvp.mp4'}
           autoPlay
           muted
           playsInline

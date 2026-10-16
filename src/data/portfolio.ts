@@ -14,7 +14,7 @@ export const portfolio = {
   available: 'Available for Runway & Fashion Direction',
   hero: {
     image: '/media/dalu-walking.png',
-    video: '/media/Man_walking_forward_20261015113514_gwr_video_mvp.mp4',
+    video: '/media/Man_walking_forward_20261015113514_gwr_video_mvp_20261016115323_gwr_video_mvp_1080p_20261016122830_gwr_video_mvp.mp4',
     poster: '/media/dalu-walking.jpg',
     audio: ''
   },
