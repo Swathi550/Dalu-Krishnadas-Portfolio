@@ -163,11 +163,12 @@ export default function Hero({ start }: { start: boolean }) {
         <video
           ref={videoRef}
           src={hero.video || '/media/Man_walking_forward_20261015113514_gwr_video_mvp.mp4'}
+          autoPlay
           muted
           playsInline
           loop
           preload="auto"
-          className="h-full w-full object-contain object-center"
+          className="h-full w-full object-cover object-center"
           style={{
             filter: 'brightness(1.50) contrast(1.10) saturate(1.18)',
           }}
